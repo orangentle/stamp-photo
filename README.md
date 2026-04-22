@@ -6,6 +6,12 @@
 
 Turn any photo into a postage stamp style image with perforated edges. 5 preset color themes, export to PNG or PDF.
 
+### Use Case / 适用场景
+
+非常适合 **Cosplay 漫展集邮活动**！为每位 Coser 生成专属邮票卡片，参与者可以在活动中收集不同角色的「邮票」，打印后贴在集邮册上，让线下交流更有仪式感和纪念价值。
+
+Perfect for **cosplay convention stamp rally events**! Generate a unique stamp card for each cosplayer. Attendees collect stamps of different characters during the event, print them out and paste into a stamp book — making offline interactions more memorable and fun.
+
 ## Styles / 款式预览
 
 | 天空蓝 | 尊贵金 | 经典红 | 森林绿 | 暗紫 |
